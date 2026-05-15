@@ -503,7 +503,7 @@ Market-Basket-Analysis/
 ## Step 1: Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone [<repository-link>](https://github.com/TaranpreetKaur06/Market-Basket-Analysis)
 ```
 
 ---
