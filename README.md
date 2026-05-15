@@ -181,7 +181,6 @@ df['ProductName'].value_counts()
 ```python
 df['TransactionID'] = df['TransactionID'].astype(str)
 df['Quantity'] = df['Quantity'].astype(int)
-df['UnitPrice'] = df['UnitPrice'].astype(float)
 ```
 
 ---
