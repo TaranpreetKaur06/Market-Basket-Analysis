@@ -476,10 +476,10 @@ These insights help businesses:
 
 The project includes visualizations such as:
 
-* Frequent Itemsets vs Support Threshold
-* Association Rules Scatter Plot
-* Support vs Confidence Graph
-* Top Association Rules Table
+* Frequency of Each Product in Transactions
+* 'Distribution of Quantity per Transaction Item
+* Distribution of Unit Price
+* Association Rules: Support vs Confidence (sized by Lift)
 
 ---
 
